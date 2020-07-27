@@ -4,4 +4,4 @@
 2. installed Tensorflow 1.2
 --worked on constant and variables
 --worked on strings
---worked on basic airthmetic operations on tenserflow constants.
+--worked on basic airthmetic operations on tensorflow constants.
